@@ -19,5 +19,3 @@ More enhancements coming soon!
 ## Enhancements:-
 * Added new project (Airline Sentiment)
 
-
-##### Developed By Manan Manwani
